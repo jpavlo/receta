@@ -39,6 +39,8 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'bower-rails'
+gem 'angular-rails-templates'
+
 
 group :test, :development do
   gem "rspec"
